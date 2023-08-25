@@ -1,2 +1,2 @@
 # Evaluation_DevOps
-Ce programme commence par demander à l'utilisateur un nombre entier n. Ensuite, il utilise une boucle for pour parcourir les nombres de 1 à n, vérifie si chaque nombre est pair, calcule le carré de chaque nombre pair et ajoute ce carré à la variable somme. Enfin, il affiche la somme des carrés des nombres pairs.
+Ce programme utilise des classes pour représenter les livres et la bibliothèque, et il offre des fonctionnalités d'ajout, d'emprunt, de retour et d'affichage des livres.
